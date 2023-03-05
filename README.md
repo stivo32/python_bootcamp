@@ -1,3 +1,3 @@
-# Warehouse for python bootcamp 2023 udemy course projects. 
+# USA states guessing game
 
-Each project in their branch
+Made with pandas and turtle
